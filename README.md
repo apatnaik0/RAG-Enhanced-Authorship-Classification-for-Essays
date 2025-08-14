@@ -53,9 +53,12 @@ Evaluation:
 
 | Experiment      | Model               | Accuracy | F1 Score |
 | --------------- | ------------------- | -------- | -------- |
-| Text Only       | Logistic Regression | xx%      | xx%      |
-| Features Only   | Random Forest       | xx%      | xx%      |
-| Text + Features | Logistic Regression | xx%      | xx%      |
+| Text Only       | Logistic Regression | 98%      | 98%      |
+| Features Only   | Logistic Regression | 80%      | 78%      |
+| Text + Features | Logistic Regression | 98%      | 98%      |
+| Text Only       | Random Forest       | 99%      | 99%      |
+| Features Only   | Random Forest       | 97%      | 97%      |
+| Text + Features | Random Forest       | 99%      | 99%      |  
 
 ---
 
