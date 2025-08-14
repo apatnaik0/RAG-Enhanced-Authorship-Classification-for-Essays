@@ -111,8 +111,8 @@ flowchart LR
 - **Python**
 - **Scikit-learn**
 - **FAISS**
-- **NLTK / SpaCy**
-- **Matplotlib / Seaborn**
+- **NLTK**
+- **Matplotlib & Seaborn**
 - **LLaMA 3 8B** for explanations
 
 ---
